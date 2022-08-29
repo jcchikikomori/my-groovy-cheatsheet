@@ -10,7 +10,7 @@ class GenerateXML {
     /**
      * getOutput is equivalent to 'output'
      */
-    String getOutput() {
+    static String getOutput() {
         def writer = new StringWriter()
         def builder = new MarkupBuilder(writer)
         builder.doubleQuotes = true
