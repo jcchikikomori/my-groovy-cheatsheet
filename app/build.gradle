@@ -33,7 +33,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'scripts.App'
+    mainClass = 'com.jcchikikomori.samples.App'
 }
 
 tasks.named('test') {
