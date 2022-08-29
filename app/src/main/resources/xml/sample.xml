@@ -1,0 +1,14 @@
+<todos>
+  <todo id="1">
+    <name>Buy Beginning Groovy Grails and Griffon</name>
+    <note>Purchase book from Amazon.com for all co-workers.</note>
+  </todo>
+  <todo id="2">
+    <name>Test Sample 2</name>
+    <note>Test Sample Note 2</note>
+  </todo>
+  <todo id="3">
+    <name>Test Sample 3</name>
+    <note>Test Sample Note 3</note>
+  </todo>
+</todos>

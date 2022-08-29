@@ -1,3 +1,5 @@
+package com.jcchikikomori.samples
+
 def winpathQuoted='C:\\windows\\system32'
 def winpathSlashy=/C:\windows\system32/
 println winpathSlashy // C:\windows\system32
