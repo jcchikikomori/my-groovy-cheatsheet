@@ -15,5 +15,6 @@ class AppTest extends Specification {
 
         then:
         result != null
+        result.contains("book")
     }
 }

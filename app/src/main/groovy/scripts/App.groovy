@@ -14,6 +14,7 @@ class App {
     static void main(String[] args) {
         println new App().greeting
         println new GenerateXML().output
+        // println System.getenv('willie')
 
         new ReadXML().assertion()
     }
